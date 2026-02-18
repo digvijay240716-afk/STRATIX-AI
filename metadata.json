@@ -1,0 +1,7 @@
+{
+  "name": "StratOS - Autonomous BI Platform",
+  "description": "An AI-powered enterprise intelligence console featuring real-time market analysis, strategic simulation, and autonomous business agent capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
